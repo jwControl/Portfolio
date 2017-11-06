@@ -676,13 +676,13 @@ font-size:25px;
   .Form-input{
     font-size:1rem;
   }
-    .card{
+    #position{
   width: 300px;
 height:350px;
 }
   .image-card img{
-  width:300px;
-    height: 200px;
+  width:250px;
+    height: 150px;
   }
   #family-system{
     width:300px;
