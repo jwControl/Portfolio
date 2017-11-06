@@ -449,9 +449,7 @@ top:5vw;
 }
 
 .card {
- display:inline;
-   align-items:center;
-  justify-content:center;
+ display:inline-block;
   width: 450px;
 height:380px;
  margin: 1rem;
