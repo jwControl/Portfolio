@@ -698,3 +698,16 @@ height:350px;
    font-size:1rem; 
 }
 }
+@media only screen and (max-width:400px){
+    .card{
+  width: 200px;
+height:150px;
+}
+    .image-card img{
+  width:200px;
+    height: 100px;
+  }
+   .card .fa{
+    font-size:1rem;
+  }
+}
