@@ -61,6 +61,7 @@ html{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+  width:100%;
     min-height: 100vh;
 background: linear-gradient(270deg,  #36a3ee, #849fcc, #2912df );
 background-size: 600% 600%;
@@ -408,6 +409,7 @@ align-items: center;
    position:relative;
  left:0;
 top:5vw;
+  width:100%;
   min-height:100vh;
   height:auto;
   text-align:center;
