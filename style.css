@@ -267,8 +267,8 @@ span{
 }
 .descritpion {
   font-size:1.5vw;
-  margin-top:5vh;
-padding:20px;
+  margin-top:2vw;
+padding:10px;
   box-shadow: 0 0 24px rgba(0,0,0,0.75); 
 }
 .skills{
@@ -296,7 +296,7 @@ padding:20px;
   }
 
 .logo .fa{ 
-  font-size:5vw;
+  font-size:6vw;
   
 }
 .fa-html5{
@@ -676,10 +676,14 @@ font-size:25px;
   .Form-input{
     font-size:1rem;
   }
+  .cards{
+margin-top:25px;
+}
     .card{
   width: 250px;
 height:250px;
 }
+  
   .image-card img{
   width:250px;
     height: 150px;
