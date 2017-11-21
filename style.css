@@ -695,6 +695,10 @@ height:250px;
     width:250px;
     height: 150px;
 }
+   #weather{
+     width:190px;
+    height: 250px;
+  }
   .card .fa{
     font-size:1rem;
   }
